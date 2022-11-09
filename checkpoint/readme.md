@@ -1,2 +1,1 @@
-checkpoint
-logging the running process.
+checkpoint: logging the running process.
