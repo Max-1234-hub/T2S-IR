@@ -9,7 +9,7 @@ This is my experiment eviroument
 - pytorch+cuda11.4
 
 ## Details
-### 1. Original datasets
+### 1. Original data
 Two public datasets are used in this study, including horse-dataset and goat-dataset.
 1). The horse-dataset are collected from six horses and six activities are included. It is avaliable at
 https://doi.org/10.4121/uuid:2e08745c-4178-4183-8551-f248c992cb14. The reference is (_Kamminga, J. W., Janßen, L. M., Meratnia, N., & Havinga, P. J. (2019). Horsing Around—A Dataset Comprising Horse Movement. Data, 4(4), 131._).
