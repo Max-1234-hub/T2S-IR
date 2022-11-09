@@ -12,9 +12,9 @@ This is my experiment eviroument
 ### 1. Original datasets
 Two public datasets are used in this study, including horse-dataset and goat-dataset.
 1). The horse-dataset are collected from six horses and six activities are included. It is avaliable at
-https://doi.org/10.4121/uuid:2e08745c-4178-4183-8551-f248c992cb14. The reference is (Kamminga, J. W., Janßen, L. M., Meratnia, N., & Havinga, P. J. (2019). Horsing Around—A Dataset Comprising Horse Movement. Data, 4(4), 131.).
+https://doi.org/10.4121/uuid:2e08745c-4178-4183-8551-f248c992cb14. The reference is (_Kamminga, J. W., Janßen, L. M., Meratnia, N., & Havinga, P. J. (2019). Horsing Around—A Dataset Comprising Horse Movement. Data, 4(4), 131._).
 2). The goat-dataset are collected from five goats and five activities are included. It is avaliable at
-https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:78937. The reference is (Kamminga, J. W., Le, D. V., Meijers, J. P., Bisby, H., Meratnia, N., & Havinga, P. J. (2018). Robust sensor-orientation-independent feature selection for animal activity recognition on collar tags. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(1), 1-27.).
+https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:78937. The reference is (_Kamminga, J. W., Le, D. V., Meijers, J. P., Bisby, H., Meratnia, N., & Havinga, P. J. (2018). Robust sensor-orientation-independent feature selection for animal activity recognition on collar tags. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(1), 1-27._).
 
 ### 2. Processed data
 The __"data"__ folder contains the normalized horse data and goat data. 
