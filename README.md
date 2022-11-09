@@ -17,19 +17,19 @@ https://doi.org/10.4121/uuid:2e08745c-4178-4183-8551-f248c992cb14. The reference
 https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:78937. The reference is (Kamminga, J. W., Le, D. V., Meijers, J. P., Bisby, H., Meratnia, N., & Havinga, P. J. (2018). Robust sensor-orientation-independent feature selection for animal activity recognition on collar tags. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(1), 1-27.).
 
 ### 2. Processed data
-The "data" folder contains the normalized horse data and goat data. 
+The _"data"_ folder contains the normalized horse data and goat data. 
 The horse data have been divided into training, validation, and testing data circularly according to six-fold cross-validation.
 The goat data have been divided into training, validation, and testing data circularly according to five-fold cross-validation.
 
 ### 3. Trained teacher network
-The "trained_teacher_net" folder contains the trained teacher models of the horse-dataset and goat-dataset. 
+The __"trained_teacher_net"__ folder contains the trained teacher models of the horse-dataset and goat-dataset. 
 The teacher model of the horse-dataset is trained under sampling rate of 25 Hz.
 The teacher model of the horse-dataset is trained under sampling rate of 100 Hz.
 
 ### 4. Trained reconstruction network
-The "trained_reconstruction_net" folder contains the trained reconstruction network of the horse-dataset and goat-dataset.
+The __"trained_reconstruction_net"__ folder contains the trained reconstruction network of the horse-dataset and goat-dataset.
 
-### 5. train the student model
+### 5. Train the student model
 I trained the student model by using the code inside the __"training_script.sh"__.
 
 Here, we also post the general code in the following (taking the horse dataset as an example).
